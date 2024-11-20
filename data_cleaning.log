@@ -1,0 +1,33 @@
+2024-11-19 15:10:25,582 - INFO - Started Data Cleaning Process.
+2024-11-19 15:11:18,644 - INFO - Started Data Cleaning Process.
+2024-11-19 15:17:31,686 - INFO - Started Data Cleaning Process.
+2024-11-19 15:17:31,690 - ERROR - KeyError: "The 'message_id' column is missing from the DataFrame."
+2024-11-19 15:56:34,263 - INFO - Started Data Cleaning Process.
+2024-11-19 15:56:34,268 - INFO - Removed duplicates. Remaining rows: 100
+2024-11-19 15:56:34,269 - INFO - Handled missing values. Remaining rows: 99
+2024-11-19 15:56:34,269 - INFO - Standardized date formats.
+2024-11-19 15:56:34,269 - INFO - Data validation successful: IDs are unique.
+2024-11-19 15:56:34,270 - INFO - Cleaned data stored at: cleaned_data/DoctorsET_messages_cleaned.json
+2024-11-19 15:56:34,270 - INFO - Data Cleaning Process Completed Successfully.
+2024-11-19 16:09:40,959 - INFO - Started Data Cleaning Process.
+2024-11-19 16:09:40,964 - INFO - [raw_telegram_data/DoctorsET_messages.json] Removed duplicates. Remaining rows: 100
+2024-11-19 16:09:40,965 - INFO - [raw_telegram_data/DoctorsET_messages.json] Handled missing values. Remaining rows: 99
+2024-11-19 16:09:40,965 - INFO - [raw_telegram_data/DoctorsET_messages.json] Standardized date formats.
+2024-11-19 16:09:40,965 - INFO - [raw_telegram_data/DoctorsET_messages.json] Data validation successful: IDs are unique.
+2024-11-19 16:09:40,966 - INFO - [raw_telegram_data/DoctorsET_messages.json] Cleaned data stored at: cleaned_data/DoctorsET_messages_cleaned.json
+2024-11-19 16:09:40,969 - INFO - [raw_telegram_data/EAHCI_messages.json] Removed duplicates. Remaining rows: 100
+2024-11-19 16:09:40,970 - INFO - [raw_telegram_data/EAHCI_messages.json] Handled missing values. Remaining rows: 84
+2024-11-19 16:09:40,971 - INFO - [raw_telegram_data/EAHCI_messages.json] Standardized date formats.
+2024-11-19 16:09:40,971 - INFO - [raw_telegram_data/EAHCI_messages.json] Data validation successful: IDs are unique.
+2024-11-19 16:09:40,972 - INFO - [raw_telegram_data/EAHCI_messages.json] Cleaned data stored at: cleaned_data/EAHCI_messages_cleaned.json
+2024-11-19 16:09:40,976 - INFO - [raw_telegram_data/lobelia4cosmetics_messages.json] Removed duplicates. Remaining rows: 100
+2024-11-19 16:09:40,976 - INFO - [raw_telegram_data/lobelia4cosmetics_messages.json] Handled missing values. Remaining rows: 100
+2024-11-19 16:09:40,977 - INFO - [raw_telegram_data/lobelia4cosmetics_messages.json] Standardized date formats.
+2024-11-19 16:09:40,977 - INFO - [raw_telegram_data/lobelia4cosmetics_messages.json] Data validation successful: IDs are unique.
+2024-11-19 16:09:40,978 - INFO - [raw_telegram_data/lobelia4cosmetics_messages.json] Cleaned data stored at: cleaned_data/lobelia4cosmetics_messages_cleaned.json
+2024-11-19 16:09:40,981 - INFO - [raw_telegram_data/yetenaweg_messages.json] Removed duplicates. Remaining rows: 100
+2024-11-19 16:09:40,982 - INFO - [raw_telegram_data/yetenaweg_messages.json] Handled missing values. Remaining rows: 78
+2024-11-19 16:09:40,983 - INFO - [raw_telegram_data/yetenaweg_messages.json] Standardized date formats.
+2024-11-19 16:09:40,983 - INFO - [raw_telegram_data/yetenaweg_messages.json] Data validation successful: IDs are unique.
+2024-11-19 16:09:40,984 - INFO - [raw_telegram_data/yetenaweg_messages.json] Cleaned data stored at: cleaned_data/yetenaweg_messages_cleaned.json
+2024-11-19 16:09:40,984 - INFO - Data Cleaning Process for all files completed successfully.
